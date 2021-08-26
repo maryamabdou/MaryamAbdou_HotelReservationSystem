@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1629987033 source:c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\src\human.cpp
+	"Human.h"
+	<iostream>
+
+1629916757 c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\include\human.h
+	"Guest.h"
+
+1629987063 c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\include\guest.h
+
+1629987033 source:c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\src\monster.cpp
+	"Monster.h"
+	<iostream>
+
+1629898543 c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\include\monster.h
+	"Guest.h"
+
+1629973709 source:c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\src\guest.cpp
+	"Guest.h"
+	<iostream>
+
+1629974177 source:c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\main.cpp
+	<iostream>
+	"Guest.h"
+	"Human.h"
+	"Monster.h"
+	"Account.h"
+	"NewReservation.h"
+	"ExtraReservation.h"
+
+1629972435 c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\include\account.h
+
+1629972878 source:c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\src\account.cpp
+	"Account.h"
+	<iostream>
+	<fstream>
+	<string.h>
+
+1629974177 source:c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\src\newreservation.cpp
+	"NewReservation.h"
+	<iostream>
+	<string.h>
+
+1629974177 c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\include\newreservation.h
+	"Guest.h"
+
+1629973243 c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\include\extrareservation.h
+	"NewReservation.h"
+
+1629973243 source:c:\users\windows10\desktop\codeblocks\name_hotelreservationsystem\src\extrareservation.cpp
+	"ExtraReservation.h"
+	<iostream>
+	<string.h>
+
